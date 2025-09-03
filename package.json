@@ -1,0 +1,16 @@
+{
+  "name": "github-tools-demo",
+  "version": "1.0.0",
+  "description": "这是一个演示GitHub工具使用的示例仓库",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": ["github", "demo", "api"],
+  "author": "GitHub Tools Demo",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^6.9.0"
+  }
+}
